@@ -15,7 +15,7 @@ CHORD_RULE = {
   'sus4': 'fS', # suspended 4
   'sus2': 'fs', # suspended 2
   # 7
-  'M7': 'TtT', # major chord
+  '7': 'TtT', # major chord
   'dom7': 'Ttt', # dominant chord
   'm7': 'tTt', # minor chord
   'hdim7': 'ttT', # minor chord
