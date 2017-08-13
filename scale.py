@@ -5,33 +5,33 @@ import sys
 '''
 TODO:
 (资料来源于 https://www.douban.com/group/topic/11563595/)
-1 伊奥尼亚音阶（自然大调） 1 2 3 4 5 6 7 1 
-2 多利亚音阶 1 2 b3 4 5 6 b7 1 
-3 弗利几亚音阶 1 b2 b3 4 5 b6 b7 1 
-4 利底亚音阶 1 2 3 #4 5 6 7 1 
-5 混合利底亚音阶 1 2 3 4 5 6 b7 1 
-6 爱奥利亚音阶（自然小调） 1 2 b3 4 5 b6 b7 1 
-7 洛克里亚音阶 1 b2 b3 4 b5 b6 b7 1 
-8 大调五声音阶 1 2 3 5 6 
-9 小调五声音阶 1 b3 4 5 b7 1 
-10 和声小调音阶 1 2 b3 4 5 b6 7 1 
-11 全半减音阶 1 2 b3 4 b5 b6 bb7 7 1 
-12 半全减音阶 1 b2 b3 3 b5 5 6 b7 1 
-13 全音音阶 1 2 3 #4 #5 #6 
-14 布鲁斯音阶 1 b3 4 b5 5 b7 1 
-15 混合布鲁斯音阶 1 b3 3 4 b5 5 b7 1 
-16 大弗利几亚音阶 （弗拉门戈） 1 b2 3 4 5 b6 b7 1 
-17 大利底亚音阶 1 2 3 #4 5 6 b7 1 
-18 超级洛克里亚音阶（alter） 1 b2 b3 b4 b5 b6 b7 1 
-19 旋律大调音阶 1 2 3 4 5 b6 b7 1 
-20 吉普赛音阶 1 b3 #4 5 b6 b7 1 
-21 匈牙利音阶 1 #2 3 #4 5 6 b7 1 
-22 匈牙利小调音阶 1 2 b3 #4 5 b6 7 1 
-23 Jazz Bebop属音阶 1 2 3 4 5 6 b7 7 i 
-24 辅助布鲁斯音阶 1 2 b3 3 4 #4 5 6 b7 i 
-25 旋律小调音阶 1 2 b3 4 5 6 7 i 
-26 和声大调音阶 1 2 3 4 5 b6 7 i 
-27 日本音阶 1 b2 4 5 b7 i 
+伊奥尼亚音阶（自然大调） C D E F G A B C 
+多利亚音阶 C D D# F G A A# C 
+弗利几亚音阶 C C# D# F G G# A# C 
+利底亚音阶 C D E F# G A B C 
+混合利底亚音阶 C D E F G A A# C 
+爱奥利亚音阶（自然小调） C D D# F G G# A# C 
+洛克里亚音阶 C C# D# F F# G# A# C 
+大调五声音阶 C D E G A 
+小调五声音阶 C D# F G A# C 
+和声小调音阶 C D D# F G G# B C 
+全半减音阶 C D D# F F# G# A B C 
+半全减音阶 C C# D# E F# G A A# C 
+全音音阶 C D E F# G# A# 
+布鲁斯音阶 C D# F F# G A# C 
+混合布鲁斯音阶 C D# E F F# G A# C 
+大弗利几亚音阶 （弗拉门戈） C C# E F G G# A# C 
+大利底亚音阶 C D E F# G A A# C 
+超级洛克里亚音阶（alter） C C# D# E F# G# A# C 
+旋律大调音阶 C D E F G G# A# C 
+吉普赛音阶 C D# F# G G# A# C 
+匈牙利音阶 C D# E F# G A A# C 
+匈牙利小调音阶 C D D# F# G G# B C 
+Jazz Bebop属音阶 C D E F G A A# B C 
+辅助布鲁斯音阶 C D D# E F F# G A A# C 
+旋律小调音阶 C D D# F G A B C 
+和声大调音阶 C D E F G G# B C 
+日本音阶 C C# F G A# C 
 '''
 
 
